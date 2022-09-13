@@ -14,7 +14,7 @@ Caracteristicas
 - Ángulo de recepción: 90° (± 45°)
 - Filtro de luz ambiental: hasta 500LUX
 
-![stack Overflow](https://github.com/castrojose/castrojose.github.io/blob/main/Sensor%20IR.jpg)
+<img src="
 
 
 Sensor IR Remote:
