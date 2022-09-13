@@ -28,3 +28,4 @@ Caracteristicas
 - Distancia de Operación: 8-10 mts
 - Compatible con la librería IR de Arduino
 
+![stack Overflow](https://github.com/castrojose/castrojose.github.io/blob/main/Sensor%20IR%20remoto.png)
