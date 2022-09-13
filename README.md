@@ -13,4 +13,5 @@ Caracteristicas
 - Corriente de funcionamiento: 0.4 a 1.5mA
 - Ángulo de recepción: 90° (± 45°)
 - Filtro de luz ambiental: hasta 500LUX
+
 ![stack Overflow](https://github.com/castrojose/castrojose.github.io/blob/main/Sensor%20IR.jpg)
