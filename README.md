@@ -14,7 +14,7 @@ Caracteristicas
 - Ángulo de recepción: 90° (± 45°)
 - Filtro de luz ambiental: hasta 500LUX
 
-<img src="Sensor IR.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="Sensor IR.jpg" alt="Sensor IR" width="500" height="600">
 
 
 Sensor IR Remote:
