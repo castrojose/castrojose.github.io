@@ -31,6 +31,21 @@ Caracteristicas
 ![stack Overflow](https://github.com/castrojose/castrojose.github.io/blob/main/Sensor%20IR%20remoto.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Uso
 Los sensores infrarrojos ofrecen una solución para ciertos procedimientos de reconocimiento, por ejemplo, los de mama y de músculos. Otra aplicación médica para los sensores infrarrojos es la medición instantánea de la temperatura del cuerpo, es decir, como un termómetro remoto o infrarrojo.
 
