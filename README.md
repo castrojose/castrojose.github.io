@@ -15,3 +15,16 @@ Caracteristicas
 - Filtro de luz ambiental: hasta 500LUX
 
 ![stack Overflow](https://github.com/castrojose/castrojose.github.io/blob/main/Sensor%20IR.jpg)
+
+
+Sensor IR Remote:
+Un control remoto infrarrojo (IR) envía señales de luz infrarroja. Una luz infrarroja no puede verse a simple vista, pero puede ser visible con el uso de una cámara digital, la cámara del teléfono celular o videocámara.
+
+Caracteristicas 
+- Modulación a 38kHz
+- 21 teclas de función para el control remoto
+- Angulo de Operación: 60º
+- Temperatura: -25 a 85ºC
+- Distancia de Operación: 8-10 mts
+- Compatible con la librería IR de Arduino
+
