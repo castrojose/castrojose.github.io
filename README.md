@@ -1,4 +1,4 @@
-# <img src="logo.jpg" alt="logo" width="500" height="600">
+# <img src="logo.png" alt="logo" width="500" height="600">
 
 # Sensor IR Receiver
 
