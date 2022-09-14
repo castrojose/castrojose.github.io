@@ -1,4 +1,4 @@
-# Sensores IR Receiver/ IR Remote
+# <img src="logo.jpg" alt="logo" width="500" height="600">
 
 # Sensores IR Receiver
 
