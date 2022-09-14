@@ -1,6 +1,6 @@
-# castrojose.github.io
+# Sensores IR Receiver/ IR Remote
 
-Sensores IR Receiver/ IR Remote
+# Sensores IR Receiver
 
 El sensor IR Receiver: Este módulo consta de un receptor IR 1838, una resistencia de 1kΩ y un LED. Funciona junto con el módulo transmisor IR KY-005 . Compatible con plataformas electrónicas populares como Arduino. Sirve muy bien para controles remoto universales, marco de fotos digital, iluminación equipada y otras aplicaciones.
 
@@ -17,7 +17,7 @@ Caracteristicas
 <img src="Sensor IR.jpg" alt="Sensor IR" width="500" height="600">
 
 
-Sensor IR Remote:
+# Sensor IR Remote:
 Un control remoto infrarrojo (IR) envía señales de luz infrarroja. Una luz infrarroja no puede verse a simple vista, pero puede ser visible con el uso de una cámara digital, la cámara del teléfono celular o videocámara.
 
 Caracteristicas 
