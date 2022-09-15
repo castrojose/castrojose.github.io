@@ -9,7 +9,9 @@ El sensor IR Receiver: Este módulo consta de un receptor IR 1838, una resistenc
 |---------------------------------------|------------------------------------------|---------------------------------------|
 | Dimensión: 6.4 x 7.4 x 51 mm          | Frecuencia: 37.9KHz                      | Ángulo de recepción: 90° (± 45°)      |   
 | Ángulo de recepción: 90 °             | Alcance de recepción: 18m                | Filtro de luz ambiental: hasta 500LUX |   
-| Voltaje de funcionamiento: 2.7 ~ 5.5V | Corriente de funcionamiento: 0.4 a 1.5mA |                                       |   
+| Voltaje de funcionamiento: 2.7 ~ 5.5V | Corriente de funcionamiento: 0.4 a 1.5mA |                                       |  
+
+
 <img src="Sensor IR.jpg" alt="Sensor IR" width="500" height="600">
 
 
