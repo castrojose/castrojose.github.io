@@ -5,7 +5,7 @@
 El sensor IR Receiver: Este módulo consta de un receptor IR 1838, una resistencia de 1kΩ y un LED. Funciona junto con el módulo transmisor IR KY-005 . Compatible con plataformas electrónicas populares como Arduino. Sirve muy bien para controles remoto universales, marco de fotos digital, iluminación equipada y otras aplicaciones.
 
 
-                                                     Características                       
+|                                                    Características                                                       |                      
 |---------------------------------------|------------------------------------------|---------------------------------------|
 | Dimensión: 6.4 x 7.4 x 51 mm          | Frecuencia: 37.9KHz                      | Ángulo de recepción: 90° (± 45°)      |   
 | Ángulo de recepción: 90 °             | Alcance de recepción: 18m                | Filtro de luz ambiental: hasta 500LUX |   
