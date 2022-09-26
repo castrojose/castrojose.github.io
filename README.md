@@ -28,7 +28,8 @@ Un control remoto infrarrojo (IR) envía señales de luz infrarroja. Una luz inf
 
 
 # Codigo
-<img src="codigo.JPG" alt="codigo" width="500" height="600">
+<img src="codigos.JPG" alt="codigos" width="500" height="300">
+<img src="codigo.JPG" alt="codigo" width="500" height="300">
 
 
 
