@@ -46,6 +46,7 @@ Un control remoto infrarrojo (IR) envía señales de luz infrarroja. Una luz inf
 
 
 
+
 Uso
 Los sensores infrarrojos ofrecen una solución para ciertos procedimientos de reconocimiento, por ejemplo, la de músculos. Otra aplicación médica para los sensores infrarrojos es la medición instantánea de la temperatura del cuerpo, es decir, como un termómetro remoto o infrarrojo.
 
